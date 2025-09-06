@@ -20,14 +20,16 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned the incosistent spelling of the `PRODUCT_NAME` column by using '=IF(C2="T shirt","T-shirt",C2)'
 - Replaced "blank" rows with "Unknown" in the `CUSTOMER_ID` column by using '=IF(A2="","unknown",A2)'
 
-📍 Excel Spreadsheet : ( [Yesi's Tiendita Final Portfolio Project V3.xlsx](https://github.com/user-attachments/files/22185668/Yesi.s.Tiendita.Final.Portfolio.Project.V3.xlsx)
+📍 Excel Spreadsheet : ( [Yesi's Tiendita Final Portfolio Project V3.xlsx] [Yesi's Tiendita Final Portfolio Project V4.xlsx](https://github.com/user-attachments/files/22185684/Yesi.s.Tiendita.Final.Portfolio.Project.V4.xlsx)
+)
 )
 
 ## 📊 Visualization
 
 Produced an Excel dashboard using pivot tables.
 
-Dashboard [Link]<img width="1205" height="643" alt="Yesi_Tiendita_Sales_Dashboard" src="https://github.com/user-attachments/assets/ac9951b1-c543-4220-9ed8-a2c09d39ec87" />
+Dashboard [Link]<img width="1228" height="662" alt="Yesi_Tiendita_Sales_Dashboard_v2" src="https://github.com/user-attachments/assets/129a1925-83e4-4cbe-82bd-34d91e6aa7dc" />
+
 
 ## 📊 Pivot Tables
 
