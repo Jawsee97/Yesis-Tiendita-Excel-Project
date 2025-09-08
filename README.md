@@ -20,7 +20,7 @@ Conducted simple data wrangling and data cleaning:
 - Cleaned the incosistent spelling of the `PRODUCT_NAME` column by using '=IF(C2="T shirt","T-shirt",C2)'
 - Replaced "blank" rows with "Unknown" in the `CUSTOMER_ID` column by using '=IF(A2="","unknown",A2)'
 
-📍 Excel Spreadsheet : [Yesi's Tiendita Final Portfolio Project](https://github.com/user-attachments/files/22185684/Yesi.s.Tiendita.Final.Portfolio.Project.V4.xlsx)
+📍 Link to download Excel Spreadsheet : [Yesi's Tiendita Final Portfolio Project](https://github.com/user-attachments/files/22185684/Yesi.s.Tiendita.Final.Portfolio.Project.V4.xlsx)
 
 ## 📊 Visualization
 
